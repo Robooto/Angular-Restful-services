@@ -1,0 +1,53 @@
+{
+  "name": "@angular/compiler",
+  "version": "4.3.3",
+  "description": "Angular - the compiler library",
+  "main": "./bundles/compiler.umd.js",
+  "module": "./@angular/compiler.es5.js",
+  "es2015": "./@angular/compiler.js",
+  "typings": "./compiler.d.ts",
+  "author": {
+    "name": "angular"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "peerDependencies": {
+    "@angular/core": "4.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular#readme",
+  "_id": "@angular/compiler@4.3.3",
+  "scripts": {},
+  "_shasum": "8c1582fe28a784401325e51a04a9b36b6712033e",
+  "_from": "@angular/compiler@4.3.3",
+  "_resolved": "https://registry.npmjs.org/@angular/compiler/-/compiler-4.3.3.tgz",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "8c1582fe28a784401325e51a04a9b36b6712033e",
+    "tarball": "https://registry.npmjs.org/@angular/compiler/-/compiler-4.3.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/compiler-4.3.3.tgz_1501704640400_0.5984973816666752"
+  },
+  "directories": {}
+}

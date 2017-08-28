@@ -1,0 +1,54 @@
+{
+  "name": "@angular/platform-browser",
+  "version": "4.3.3",
+  "description": "Angular - library for using Angular in a web browser",
+  "main": "./bundles/platform-browser.umd.js",
+  "module": "./@angular/platform-browser.es5.js",
+  "es2015": "./@angular/platform-browser.js",
+  "typings": "./platform-browser.d.ts",
+  "author": {
+    "name": "angular"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "peerDependencies": {
+    "@angular/core": "4.3.3",
+    "@angular/common": "4.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular#readme",
+  "_id": "@angular/platform-browser@4.3.3",
+  "scripts": {},
+  "_shasum": "623b659794f079096d4f7685b4bebcb49e3b9a71",
+  "_from": "@angular/platform-browser@4.3.3",
+  "_resolved": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.3.tgz",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "623b659794f079096d4f7685b4bebcb49e3b9a71",
+    "tarball": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-4.3.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/platform-browser-4.3.3.tgz_1501704653885_0.48390069673769176"
+  },
+  "directories": {}
+}
